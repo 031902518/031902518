@@ -1,0 +1,5 @@
+﻿  试一试.cpp
+C:\Users\86185\Desktop\试一试\试一试\试一试.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+试一试.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  试一试.vcxproj -> C:\Users\86185\Desktop\试一试\Debug\试一试.exe
