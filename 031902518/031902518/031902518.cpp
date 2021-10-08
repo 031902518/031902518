@@ -9,7 +9,6 @@ int main(int argc, char* argv[])
 	wos = argv[1];
 	ors = argv[2];
 	ans = argv[3];
-	cout << argv[1] << endl << argv[2] << endl << argv[3] << endl;
 	locale china("zh_CN.UTF-8");//设置本地是中国，这样才能在文件中都入读出中文，而不乱码
 	//下面是打开org
 	wifstream infile2;
